@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+// make resume website then make board game
 function App() {
   return (
     <div className="App">
