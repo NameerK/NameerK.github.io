@@ -3,7 +3,7 @@ import './App.css';
 import { useState } from 'react';
 // make resume website then make board game
 // https://nameerk.github.io
-// npm run deploy
+// npm run deploy in the my-app directory
 function App() {
   return (
     <div className="App">
@@ -82,6 +82,7 @@ export default function MyApp() {
     <>
       <h1>Welcome to my app</h1>
       <MyButton />
+      <Board />
     </>
   );
 }
