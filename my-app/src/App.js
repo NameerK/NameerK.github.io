@@ -151,7 +151,7 @@ export default function MyApp() {
     <>
       <h1>Welcome to my app</h1>
       <MyButton />
-      <Board />
+      <Game />
     </>
   );
 }
