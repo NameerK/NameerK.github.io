@@ -72,6 +72,14 @@ body {
   text-decoration: none;
 }
 
+.nav li.active {
+  background-color: #61dafb;
+}
+
+.nav li:hover {
+  background-color: #ddd;
+}
+
 .back {
   background: #18122e;
   color: white;
