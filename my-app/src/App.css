@@ -36,6 +36,21 @@
     transform: rotate(360deg);
   }
 }
+div {
+  background-color: #999;
+}
+
+body { 
+  background-color: #999;
+}
+
+.back {
+  background: #18122e;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+}
 
 .square {
   background: #fff;
@@ -44,12 +59,12 @@
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 64px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 64px;
 }
 
 .board-row:after {

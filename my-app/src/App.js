@@ -148,10 +148,10 @@ function calculateWinner(squares) { // function that calculates the winner of th
 
 export default function MyApp() {
   return (
-    <>
+    <body> 
       <h1>Welcome to my app</h1>
       <MyButton />
       <Game />
-    </>
+    </body>
   );
 }
