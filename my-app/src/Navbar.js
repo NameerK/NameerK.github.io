@@ -4,7 +4,7 @@ export default function Navbar() {
             <a href="/" className="site title">Site Name</a>
             <ul>
                 <li>
-                    <a href="/pages/A.js">A</a>
+                    <a href="#A">A</a>
                 </li>
                 <li>
                     <a href="/pages/B.js">B</a>

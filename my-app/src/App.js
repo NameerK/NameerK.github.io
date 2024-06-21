@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar';
 import { useState } from 'react';
-// make resume website then make board game
 // https://nameerk.github.io
 // npm run deploy in the my-app directory
 function App() {
@@ -148,7 +147,6 @@ function calculateWinner(squares) { // function that calculates the winner of th
 }
 
 export default function MyApp() {
-  console.log(window.location);
   return (
     <>
     <Navbar/>
